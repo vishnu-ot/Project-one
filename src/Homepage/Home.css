@@ -1,0 +1,35 @@
+.home {
+  width: 260px;
+  background-color: white;
+  height: 90vh;
+  margin-left: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.home .side {
+  background-color: azure;
+  width: 260px;
+  height: 707px;
+  
+  margin-top: 30px;
+}
+.side ul li {
+  padding: 15px;
+}
+.cent {
+  background-color: aqua;
+  /* width: 19%; */
+  width: 60px;
+}
+.home-items {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+ul{
+    width: 260px;
+  height: 707px;
+}

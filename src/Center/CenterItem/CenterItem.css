@@ -1,0 +1,36 @@
+.center-item {
+  width: 620px;
+  height: 600px;
+  /* background-color: red; */
+  margin-top: 30px;
+  /* display: flex;
+  flex-direction: column; */
+}
+.profile {
+  display: flex;
+}
+.name-sec h3,
+p {
+  margin-left: 10px;
+}
+
+.name-sec p {
+  height: 16px;
+  color: rgb(105, 102, 102);
+}
+.content-sec p {
+  font-size: 14px;
+  margin: 0;
+  margin-top: 30px;
+}
+.comment-sec {
+  display: flex;
+  align-items: center;
+  margin-top: 38px;
+}
+.comment-sec span{
+    margin-left: 5px;
+}
+.comment-sec img{
+    margin-left: 15px;
+}

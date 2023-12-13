@@ -1,0 +1,9 @@
+.container {
+  /* background-color: rgb(215, 245, 245); */
+  margin-left: 20px;
+}
+
+.homes{
+    display: flex;
+    gap: 20px;
+}

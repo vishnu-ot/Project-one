@@ -1,0 +1,9 @@
+.center{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.center::-webkit-scrollbar {
+    display: none;
+  }
+
